@@ -11,6 +11,4 @@ Les tâches se sont organisées de cette manière :
 - Alfred de Vulpian a fait une majeure partie de la modélisation 3D
 - Matéo Deroubaix (moi) s'est occupé d'une petite partie de la 3D et de tout le gamedesign ainsi que de tout le leveldesign.
 
-La modélisation s'est faite sur Blender
-Le game engine est Godot
-Le langage de programmation est Godoscript (pythonlike)
+La modélisation s'est faite sur Blender, le game engine est Godot et le langage de programmation est Godoscript (pythonlike)
